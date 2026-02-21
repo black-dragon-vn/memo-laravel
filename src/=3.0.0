@@ -1,0 +1,8 @@
++ vue-template-compiler@2.7.16
+updated 1 package and audited 851 packages in 3.4s
+
+124 packages are looking for funding
+  run `npm fund` for details
+
+found 9 vulnerabilities (1 low, 6 moderate, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
